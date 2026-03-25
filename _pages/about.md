@@ -40,10 +40,12 @@ I have worked on chip-to-chip interconnect optimization for large language model
 
 - **[NeurIPS-OWA'24]** Jiayi Li, et al. **“FPGA-Gym: An FPGA-Accelerated Reinforcement Learning Environment Simulation Framework.”** Advances in Neural Information Processing Systems (Workshop), 2024.
   
+  I have also contributed to several co-authored publications in related areas.
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2023*, Academic Excellence Award, Peking University  
+- *2022*, Zhishan Student Award, Southeast University  
+- *2021*, Merit Student, Southeast University  
+- *2018–2022*, Multiple Course Excellence Awards
 # 📖 Education
 - *2022.09 - 2027.06 (expected)*, Ph.D. candidate, Peking University  
 - *2018.09 - 2022.06*, Bachelor's degree, Southeast University
