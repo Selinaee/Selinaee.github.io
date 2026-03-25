@@ -33,30 +33,21 @@ I have worked on chip-to-chip interconnect optimization for large language model
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[DAC’26] **Jiayi Li**, Di Wu, Qingxu Li, Hongxiao Zhao, Jiaqi Yang, Anjunyi Fan, Wenbin Zhang, Boqiang Wu, Shuting Liu, Shifeng Fang, Jianbo Dong, Dimin Niu and Bonan Yan. 2026. “C2C-Explorer: An Exploration
+Framework for Chip-to-Chip Interconnect Architectures in LLM CloudComputing Systems.“ In . ACM, New York, NY, USA, 7 pages. Chip to System, 2026
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[DATE’25] **Jiayi Li**, Hongxiao Zhao, Wenshuo Yue, Yihan Fu, Daijing Shi, Anjunyi Fan, Yuchao Yang, Bonan Yan. “PEARL: FPGA-Based Reinforcement Learning Acceleration with Pipelined Parallel Environments.” Design, Automation & Test in Europe Conference & Exhibition, 2025.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[NeurIPS-OWA] **Jiayi Li**, Hongxiao Zhao, Wenshuo Yue, Yihan Fu, Daijing Shi, Anjunyi Fan, Qinghao Wang, Yaodong Yang, Bonan Yan. “FPGA-Gym: An FPGA-Accelerated Reinforcement Learning Environment Simulation Framework.” NeurIPS Workshop on Open-World Agents, 2024.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *2022.09 - 2027.06 (expected)*, Ph.D. candidate, Peking University  
+- *2018.09 - 2022.06*, Bachelor's degree, Southeast University
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 
 
