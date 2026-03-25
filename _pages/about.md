@@ -32,14 +32,14 @@ I have worked on chip-to-chip interconnect optimization for large language model
   An FPGA-accelerated framework for reinforcement learning environment simulation.
 
 # 📝 Publications 
+## First-author papers
 
-[DAC’26] **Jiayi Li**, Di Wu, Qingxu Li, Hongxiao Zhao, Jiaqi Yang, Anjunyi Fan, Wenbin Zhang, Boqiang Wu, Shuting Liu, Shifeng Fang, Jianbo Dong, Dimin Niu and Bonan Yan. 2026. “C2C-Explorer: An Exploration
-Framework for Chip-to-Chip Interconnect Architectures in LLM CloudComputing Systems.“ In . ACM, New York, NY, USA, 7 pages. Chip to System, 2026
+- **[DAC'26]** Jiayi Li, et al. **“C2C-Explorer: An Exploration Framework for Chip-to-Chip Interconnect Architectures in LLM Cloud Computing Systems.”** Design Automation Conference, 2026.
 
-[DATE’25] **Jiayi Li**, Hongxiao Zhao, Wenshuo Yue, Yihan Fu, Daijing Shi, Anjunyi Fan, Yuchao Yang, Bonan Yan. “PEARL: FPGA-Based Reinforcement Learning Acceleration with Pipelined Parallel Environments.” Design, Automation & Test in Europe Conference & Exhibition, 2025.
+- **[DATE'25]** Jiayi Li, et al. **“PEARL: FPGA-Based Reinforcement Learning Acceleration with Pipelined Parallel Environments.”** Design, Automation and Test in Europe Conference, 2025.
 
-[NeurIPS-OWA] **Jiayi Li**, Hongxiao Zhao, Wenshuo Yue, Yihan Fu, Daijing Shi, Anjunyi Fan, Qinghao Wang, Yaodong Yang, Bonan Yan. “FPGA-Gym: An FPGA-Accelerated Reinforcement Learning Environment Simulation Framework.” NeurIPS Workshop on Open-World Agents, 2024.
-
+- **[NeurIPS-OWA'24]** Jiayi Li, et al. **“FPGA-Gym: An FPGA-Accelerated Reinforcement Learning Environment Simulation Framework.”** Advances in Neural Information Processing Systems (Workshop), 2024.
+  
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
