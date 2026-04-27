@@ -33,7 +33,7 @@ I have worked on chip-to-chip interconnect optimization for large language model
 
 # 📝 Publications 
 ## First-author papers
-- **[FCCM'26]** Jiayi Li, et al. **“FPGA-Gym2.0: FPGA-Based RL Environment Acceleration with LLM-Assisted Onboarding”** Field-Programmable Custom Computing Machines, 2026.
+- **[FCCM'26]** Jiayi Li, et al. **“FPGA-Gym-v2: FPGA-Based RL Environment Acceleration with LLM-Assisted Onboarding”** Field-Programmable Custom Computing Machines, 2026.
   
 - **[DAC'26]** Jiayi Li, et al. **“C2C-Explorer: An Exploration Framework for Chip-to-Chip Interconnect Architectures in LLM Cloud Computing Systems.”** Design Automation Conference, 2026.
 
