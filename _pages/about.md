@@ -16,12 +16,16 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a Ph.D. candidate in the School of Integrated Circuits at Peking University, affiliated with the Institute for Artificial Intelligence, and advised by Prof. Bonan Yan. 
-My research focuses on cross-layer optimization for AI systems, bridging workload understanding, system-level modeling, architecture design, and hardware implementation. 
-I have worked on chip-to-chip interconnect optimization for large language model systems and hardware acceleration for reinforcement learning, and I am also interested in efficient simulation and acceleration for multi-agent.
+I am a Ph.D. candidate in the School of Integrated Circuits at Peking University, affiliated with the Institute for Artificial Intelligence, and advised by Prof. Bonan Yan.
+My research focuses on communication–computation co-optimization and hardware–software co-design for large-scale agent (LLM/RL Agent) systems.
+Targeting the training and deployment bottlenecks of large-scale agent systems, my work spans workload modeling, communication–computation co-optimization, and heterogeneous computing prototyping, aiming to improve the training, inference, and interaction efficiency of LLM/RL Agent systems across heterogeneous platforms such as AI accelerators, FPGAs, and multi-XPU clusters.
 
 # 💻 Internships
-- *2024.12 - 2025.12*, [Alibaba Damo Academy](https://damo.alibaba.com/), China.
+- *2026.5 - now*, [ByteDance](https://www.bytedance.com/), Beijing.
+- Mentor: Shuai Wang, Yinxiao Feng
+- Topic: Modeling and hardware–software co-design for low-latency MoE inference clusters, analyzing topology/architecture parameters across compute, communication, and topology dimensions.
+  
+- *2024.12 - 2025.12*, [Alibaba Damo Academy](https://damo.alibaba.com/), Beijing.
 - Mentor: Di Wu, Dimin Niu
 - Topic: Architecture analysis and optimization for chip-to-chip interconnect in scale-up LLM systems. Built workload-driven communication models and a hybrid cycle-accurate/event-driven simulator for system-level analysis and design space exploration.
 
